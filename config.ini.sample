@@ -1,0 +1,10 @@
+[SCPUpload]
+host: example.com
+user: john.daw
+upload_path: ~/covers
+download_path: http://covers.example.com
+
+[HipChatNotifier]
+api_token: D34dC0d3D3AdBeeF
+room: My Epic Room Name or ID
+host: api.hipchat.com
